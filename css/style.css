@@ -93,7 +93,7 @@ body{
 }
 .box1
 {
-    border:2px solid black;
+    
     min-height:200px;
     padding-top:50px;
 }
@@ -191,7 +191,7 @@ body{
 }
 .box2
 {
-    border:2px solid pink;
+    
     min-height:80px;
     width:100% !important;
     margin:auto;
@@ -202,14 +202,14 @@ body{
 }
 .box3
 {
-    border:2px solid green;
+    
     height:360px;
     width:100% !important;
     margin:auto;
 }
 .box4
 {
-    border:2px solid green;
+    
     min-height:450px;
     font-size:22px;
     letter-spacing:1px;
@@ -220,7 +220,7 @@ body{
 
 .box5
 {
-    border:2px solid pink;
+    
     min-height:350px;
     width:100% !important;
     margin:auto;
@@ -228,7 +228,7 @@ body{
 }
 .box6
 {
-    border:2px solid pink;
+    
     min-height:300px !important;
     width:100% !important;
     margin:auto;
@@ -236,7 +236,7 @@ body{
 }
 .box7
 {
-    border:2px solid pink;
+    
     min-height:600px !important;
     width:100% !important;
     margin:auto;
@@ -244,35 +244,35 @@ body{
 }
 .box8
 {
-    border:2px solid pink;
+    
     min-height:340px !important;
     width:100% !important;
     margin:auto;
 }
 .box9
 {
-    border:2px solid pink;
+    
     min-height:250px !important;
     width:100% !important;
     margin:auto;
 }
 .box10
 {
-    border:2px solid pink;
+    
     min-height:400px !important;
     width:100% !important;
     margin:auto;
 }
 .box11
 {
-    border:2px solid pink;
+    
     min-height:300px !important;
     width:100% !important;
     margin:auto;
 }
 .box12
 {
-    border:1px solid grey;
+    
     min-height:340px !important;
     width:100% !important;
     margin:auto;
